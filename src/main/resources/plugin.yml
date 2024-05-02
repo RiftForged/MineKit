@@ -1,0 +1,13 @@
+name: MineKit
+version: 1.0.0
+main: com.riftforged.minekit.MineKit
+api-version: '1.20'
+description: A simple plugin that introduces optimisations and convenience for future projects.
+depend:
+  - Glove
+commands:
+  minekit:
+    description: The main MineKit command.
+    usage: "/minekit <help|version>"
+    permission: minekit.command
+    permission-message: You do not have permission to use this command.
