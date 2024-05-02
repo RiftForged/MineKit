@@ -242,7 +242,6 @@ public final class ChunkWrapper implements Wrapper<Chunk>
 
     /**
      * {@inheritDoc}
-     *
      * @return {@inheritDoc}
      */
     @Override
